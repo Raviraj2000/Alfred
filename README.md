@@ -1,2 +1,2 @@
 # Alfred
-Discord Bot to play music from Screenshots of playlists
+Discord Bot to play music from screenshots of playlists
